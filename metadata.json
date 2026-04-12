@@ -1,0 +1,5 @@
+{
+  "name": "AI Map Coloring Visualizer ",
+  "description": "A production-grade interactive visualizer for the Map Coloring Problem using Backtracking Search and MRV heuristics.",
+  "requestFramePermissions": []
+}
